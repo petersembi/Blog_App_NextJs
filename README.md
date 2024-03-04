@@ -4,8 +4,14 @@ This is a Blog App, created on Next Js.
 
 First, clone the repository,
 Then cd Blog_App_NextJs
+```bash
+cd Blog_App_NextJs
+```
 
-Next, install project dependencies,  npm install  
+Next, install project dependencies,  
+```bash
+cd npm install  
+```
 
 Finally
 
