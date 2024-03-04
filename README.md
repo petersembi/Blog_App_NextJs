@@ -1,4 +1,4 @@
-This is a Blog App, created on Next Js. 
+This is a responsive Blog App, created on Next Js, Typescript, and Tailwind CSS. 
 
 ## Getting Started
 
