@@ -3,14 +3,14 @@ This is a Blog App, created on Next Js.
 ## Getting Started
 
 First, clone the repository,
-Then cd Blog_App_NextJs
+Then navigate to Blog_App_NextJs
 ```bash
 cd Blog_App_NextJs
 ```
 
 Next, install project dependencies,  
 ```bash
-cd npm install  
+npm install  
 ```
 
 Finally
